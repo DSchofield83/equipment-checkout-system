@@ -1,0 +1,4 @@
+equipmentId,name,category,status,location
+EQ-100,Cordless Drill,Tools,Available,Depot A
+EQ-101,Voltage Meter,Electrical,Available,Depot A
+EQ-102,Lincoln Welding Machine,Other,Checked Out,Depot B
